@@ -1,0 +1,7 @@
+{
+    "thunder-client.htmlReportResponseLimit": 20000,
+    "thunder-client.responseLimit": 30,
+    "gitlens.launchpad.experimental.queryLimit": 1000,
+    "gitlens.graph.searchItemLimit": 1000,
+    "git.detectSubmodulesLimit": 100
+}
